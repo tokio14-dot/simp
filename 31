@@ -1,48 +1,48 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="", 1
-"https://archive.org/download/31-13_202506/31%20%281%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 10
-"https://archive.org/download/31-13_202506/31%20%2810%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 11
-"https://archive.org/download/31-13_202506/31%20%2811%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 12
-"https://archive.org/download/31-13_202506/31%20%2812%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 13
-"https://archive.org/download/31-13_202506/31%20%2813%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 14
-"https://archive.org/download/31-13_202506/31%20%2814%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 15
-"https://archive.org/download/31-13_202506/31%20%2815%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 16
-"https://archive.org/download/31-13_202506/31%20%2816%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 17
-"https://archive.org/download/31-13_202506/31%20%2817%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 18
-"https://archive.org/download/31-13_202506/31%20%2818%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 19
-"https://archive.org/download/31-13_202506/31%20%2819%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 2
-"https://archive.org/download/31-13_202506/31%20%282%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 20
-"https://archive.org/download/31-13_202506/31%20%2820%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 21
-"https://archive.org/download/31-13_202506/31%20%2821%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 22
-"https://archive.org/download/31-13_202506/31%20%2822%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 23
-"https://archive.org/download/31-13_202506/31%20%283%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 24
-"https://archive.org/download/31-13_202506/31%20%284%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 25
-"https://archive.org/download/31-13_202506/31%20%285%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 26
-"https://archive.org/download/31-13_202506/31%20%286%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 27
-"https://archive.org/download/31-13_202506/31%20%287%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 28
-"https://archive.org/download/31-13_202506/31%20%288%29.ia.mp4"
-#EXTINF:-1 tvg-logo="", 29
-"https://archive.org/download/31-13_202506/31%20%289%29.ia.mp4"
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 1
+https://archive.org/download/31-13_202506/31%20%281%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 2
+https://archive.org/download/31-13_202506/31%20%282%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 3
+https://archive.org/download/31-13_202506/31%20%283%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 4
+https://archive.org/download/31-13_202506/31%20%284%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 5
+https://archive.org/download/31-13_202506/31%20%285%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 6
+https://archive.org/download/31-13_202506/31%20%286%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 7
+https://archive.org/download/31-13_202506/31%20%287%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 8
+https://archive.org/download/31-13_202506/31%20%288%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 9
+https://archive.org/download/31-13_202506/31%20%289%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 10
+https://archive.org/download/31-13_202506/31%20%2810%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 11
+https://archive.org/download/31-13_202506/31%20%2811%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 12
+https://archive.org/download/31-13_202506/31%20%2812%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 13
+https://archive.org/download/31-13_202506/31%20%2813%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 14
+https://archive.org/download/31-13_202506/31%20%2814%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 15
+https://archive.org/download/31-13_202506/31%20%2815%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 16
+https://archive.org/download/31-13_202506/31%20%2816%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 17
+https://archive.org/download/31-13_202506/31%20%2817%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 18
+https://archive.org/download/31-13_202506/31%20%2818%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 19
+https://archive.org/download/31-13_202506/31%20%2819%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 20
+https://archive.org/download/31-13_202506/31%20%2820%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 21
+https://archive.org/download/31-13_202506/31%20%2821%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gbRNhi2znMFxgVTrso60GFHGjVJ.jpg", 22
+https://archive.org/download/31-13_202506/31%20%2822%29.ia.mp4
 
 
 
@@ -61,4 +61,8 @@
 
 
 
-,,,,,,,,
+
+
+
+
+xxxxxxxx
