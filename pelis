@@ -2,10 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="",
+https://archive.org/download/01_20250623_20250623/04.ia.mp4
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9xaAT3V3I9xxqnNiEjCivNFfdlh.jpg",Simpson en Plusniversario (2021)
+https://archive.org/download/01_20250623_20250623/03.ia.mp4
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u10ZfFwbCMB4UrFy7OlHq08fBRr.jpg",El bueno, el Bart y el Loki (2021)
+https://archive.org/download/01_20250623_20250623/02.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d9wHkwF9ttnNKuOoEIStve32jEk.jpg",The Simpsons Movie (2007)
 https://archive.org/download/01_20250623_20250623/01.mp4
