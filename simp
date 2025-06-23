@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg"group-title="SIMPSON",PELIS Y CORTOS
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dl0S3pJSQUyBLPAOefMMujbtp4O.jpg"group-title="SIMPSON",36
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7EtmSmdN6ENGwJFfzu9Bn9cgSW.jpg"group-title="SIMPSON",35
