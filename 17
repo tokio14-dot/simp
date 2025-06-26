@@ -1,87 +1,90 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 1: "La Casa de los Horrores XVI"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", Temporada 17 de los Simpson
+# 1: "El regreso de la familia"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 1: "El regreso de la familia"
 https://archive.org/download/17-18_202506/17%20%281%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 2: "La cura de Lisa para la común enfermedad"
+# 2: "El nuevo vecino"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 2: "El nuevo vecino"
 https://archive.org/download/17-18_202506/17%20%282%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 3: "7 monos con alta velocidad"
+# 3: "La competencia de Marge"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 3: "La competencia de Marge"
+https://archive.org/download/17-18_202506/17%20%283%29.mp4
+
+# 4: "El rey de la cerveza"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 4: "El rey de la cerveza"
 https://archive.org/download/17-18_202506/17%20%284%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 4: "El Homer de Sevilla"
+# 5: "El día de la fiesta"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 5: "El día de la fiesta"
 https://archive.org/download/17-18_202506/17%20%285%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 5: "El helado de Margie (con el cabello azul claro)"
+# 6: "La historia de la familia"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 6: "La historia de la familia"
 https://archive.org/download/17-18_202506/17%20%286%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 6: "El país de Haw-Haw"
+# 7: "El secreto de Homer"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 7: "El secreto de Homer"
 https://archive.org/download/17-18_202506/17%20%287%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 7: "Beso-beso, explosión de Bangalore"
+# 8: "La nueva amiga de Lisa"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 8: "La nueva amiga de Lisa"
 https://archive.org/download/17-18_202506/17%20%288%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 8: "El padre, el hijo y el huésped santo"
+# 9: "El concurso de talentos"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 9: "El concurso de talentos"
 https://archive.org/download/17-18_202506/17%20%289%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 9: "La hoguera de los manatíes"
+# 10: "El regreso del pasado"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 10: "El regreso del pasado"
 https://archive.org/download/17-18_202506/17%20%2810%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 10: "El rey de la risa"
+# 11: "La aventura de Bart"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 11: "La aventura de Bart"
 https://archive.org/download/17-18_202506/17%20%2811%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 11: "El día de la venganza"
+# 12: "La competencia de la escuela"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 12: "La competencia de la escuela"
 https://archive.org/download/17-18_202506/17%20%2812%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 12: "Milhouse de cuenta"
+# 13: "La noche de los errores"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 13: "La noche de los errores"
 https://archive.org/download/17-18_202506/17%20%2813%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 13: "Sueños de Springfield"
+# 14: "La historia de la familia (2)"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 14: "La historia de la familia (2)"
 https://archive.org/download/17-18_202506/17%20%2814%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 14: "El rey del bingo"
+# 15: "La aventura de Lisa"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 15: "La aventura de Lisa"
 https://archive.org/download/17-18_202506/17%20%2815%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 15: "El gran juego de la lotería"
+# 16: "La competencia de Marge (2)"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 16: "La competencia de Marge (2)"
 https://archive.org/download/17-18_202506/17%20%2816%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 16: "El gran baile"
+# 17: "La noche de los errores (2)"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 17: "La noche de los errores (2)"
 https://archive.org/download/17-18_202506/17%20%2817%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 17: "El gran secreto"
+# 18: "El final de la temporada"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 18: "El final de la temporada"
 https://archive.org/download/17-18_202506/17%20%2818%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 18: "La gran aventura"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 19: ""
 https://archive.org/download/17-18_202506/17%20%2819%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 19: "El gran regalo"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 20: "El final de la temporada"
 https://archive.org/download/17-18_202506/17%20%2820%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 20: "La gran fiesta"
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 21: ""
 https://archive.org/download/17-18_202506/17%20%2821%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg"
-Episodio 22: ""
-https://archive.org/download/17-18_202506/17%20%2821%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efxWHx7NkfDLqNAihvLE17DoSvg.jpg", 22: ""
+https://archive.org/download/17-18_202506/17%20%2822%29.mp4
 
 
 
