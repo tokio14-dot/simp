@@ -1,69 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 1
-https://archive.org/download/32-2_20250620/32%20%281%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 3
-https://archive.org/download/32-2_20250620/32%20%283%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 4
-https://archive.org/download/32-2_20250620/32%20%284%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 2
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 5
-https://archive.org/download/32-2_20250620/32%20%285%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 3
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 6
-https://archive.org/download/32-2_20250620/32%20%286%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 7
-https://archive.org/download/32-2_20250620/32%20%287%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 5
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 8
-https://archive.org/download/32-2_20250620/32%20%288%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 6
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 9
-https://archive.org/download/32-2_20250620/32%20%289%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 7
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 10
-https://archive.org/download/32-2_20250620/32%20%2810%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 11
-https://archive.org/download/32-2_20250620/32%20%2811%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 9
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 12
-https://archive.org/download/32-2_20250620/32%20%2812%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 10
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 13
-https://archive.org/download/32-2_20250620/32%20%2813%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 11
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 14
-https://archive.org/download/32-2_20250620/32%20%2814%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 12
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 15
-https://archive.org/download/32-2_20250620/32%20%2815%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 13
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 16
-https://archive.org/download/32-2_20250620/32%20%2816%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 14
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 17
-https://archive.org/download/32-2_20250620/32%20%2817%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 15
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 18
-https://archive.org/download/32-2_20250620/32%20%2818%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 16
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 19
-https://archive.org/download/32-2_20250620/32%20%2819%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 17
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 2
-https://archive.org/download/32-2_20250620/32%20%282%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 18
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 20
-https://archive.org/download/32-2_20250620/32%20%2820%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 19
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 21
-https://archive.org/download/32-2_20250620/32%20%2821%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 20
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg", Capítulo 22
-https://archive.org/download/32-2_20250620/32%20%2822%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 21
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 22
 
 
 
@@ -73,4 +52,6 @@ https://archive.org/download/32-2_20250620/32%20%2822%29.mp4
 
 
 
-......
+
+
+b 
