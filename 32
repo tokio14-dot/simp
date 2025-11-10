@@ -1,37 +1,51 @@
-
-m3u
-
-imagen
-https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg
-
-enlases
-
-
-
-cap 1 al 22
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 1
 https://pomf2.lain.la/f/d3cvr3mo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 2
 https://pomf2.lain.la/f/u88arl3b.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 3
 https://pomf2.lain.la/f/7j4va6ei.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 4
 https://pomf2.lain.la/f/fqy3ypuf.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 5
 https://pomf2.lain.la/f/ptjrzu8e.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 6
 https://pomf2.lain.la/f/60lwqx1e.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 7
 https://pomf2.lain.la/f/yqlkddl0.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 8
 https://pomf2.lain.la/f/t8ylh0ju.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 9
 https://pomf2.lain.la/f/pwebcbng.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 10
 https://pomf2.lain.la/f/yfthqewa.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 11
+https://pomf2.lain.la/f/gczgba9c.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 12
+https://pomf2.lain.la/f/ah3nmzx3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 13
+https://pomf2.lain.la/f/2y8l16u4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 14
+https://pomf2.lain.la/f/0xdkxs1a.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 15
+https://pomf2.lain.la/f/y99ptvn6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 16
+https://pomf2.lain.la/f/omnxfdq5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 17
+https://pomf2.lain.la/f/kaxzmiyz.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 18
+https://pomf2.lain.la/f/to49c9iu.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 19
+https://pomf2.lain.la/f/jkfrs1vd.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 20
+https://pomf2.lain.la/f/k3lejyyo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 21
+https://pomf2.lain.la/f/tjj4vkjt.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 22
+https://pomf2.lain.la/f/2pw3ire2.mp4
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
+https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpg
 
 
 
