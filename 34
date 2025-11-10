@@ -1,71 +1,49 @@
-EXTINF:-1 tvg-logo="", 1. Nombre del capítulo
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 1.
 https://pomf2.lain.la/f/8qr15n4.mp4
-
-#EXTINF:-1 tvg-logo="", 1. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 2.
 https://pomf2.lain.la/f/26urkq3q.mp4
-
-#EXTINF:-1 tvg-logo="", 3. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 3.
 https://pomf2.lain.la/f/0maik3s8.mp4
-
-#EXTINF:-1 tvg-logo="", 4. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 4.
 https://pomf2.lain.la/f/g3qdttel.mp4
-
-#EXTINF:-1 tvg-logo="", 5. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 5.
 https://pomf2.lain.la/f/dvnkikfx.mp4
-
-#EXTINF:-1 tvg-logo="", 6. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 6.
 https://pomf2.lain.la/f/qco4oimm.mp4
-
-#EXTINF:-1 tvg-logo="", 7. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 7.
 https://pomf2.lain.la/f/s0bayof7.mp4
-
-#EXTINF:-1 tvg-logo="", 8. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 8.
 https://pomf2.lain.la/f/xmawnc2r.mp4
-
-#EXTINF:-1 tvg-logo="", 9. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 9.
 https://pomf2.lain.la/f/gcqf70ly.mp4
-
-#EXTINF:-1 tvg-logo="", 10. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 10.
 https://pomf2.lain.la/f/predgz59.mp4
-
-#EXTINF:-1 tvg-logo="", 11. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 11.
 https://pomf2.lain.la/f/iof8xgg.mp4
-
-#EXTINF:-1 tvg-logo="", 12. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 12.
 https://pomf2.lain.la/f/cp8loo7o.mp4
-
-#EXTINF:-1 tvg-logo="", 13. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 13.
 https://pomf2.lain.la/f/z51ppo27.mp4
-
-#EXTINF:-1 tvg-logo="", 14. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 14.
 https://pomf2.lain.la/f/ikipynqy.mp4
-
-#EXTINF:-1 tvg-logo="", 15. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 15.
 https://pomf2.lain.la/f/2ph0744b.mp4
-
-#EXTINF:-1 tvg-logo="", 16. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 16.
 https://pomf2.lain.la/f/qsgdqews.mp4
-
-#EXTINF:-1 tvg-logo="", 17. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 17.
 https://pomf2.lain.la/f/vrjbg0vu.mp4
-
-#EXTINF:-1 tvg-logo="", 18. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 18.
 https://pomf2.lain.la/f/v7o8ryss.mp4
-
-#EXTINF:-1 tvg-logo="", 19. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 19.
 https://pomf2.lain.la/f/zsomm01.mp4
-
-#EXTINF:-1 tvg-logo="", 20. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 20.
 https://pomf2.lain.la/f/grr7kxa4.mp4
-
-#EXTINF:-1 tvg-logo="", 21. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 21.
 https://pomf2.lain.la/f/gv72huen.mp4
-
-#EXTINF:-1 tvg-logo="", 22. Nombre del capítulo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pnoT4SHafalZmf2XNtzjBppVrpj.jpg", 22.
 https://pomf2.lain.la/f/2wo0vfux.mp4
+
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
 https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpg
-
-
-
