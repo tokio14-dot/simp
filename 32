@@ -1,51 +1,10 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 1
+m3u
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 2
+imagen
+https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 3
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 5
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 6
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 7
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 9
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 10
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 11
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 12
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 13
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 14
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 15
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 16
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 17
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 18
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 19
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 20
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 21
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",Capítulo 22
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
-https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpg
+enlases
 
 
 
@@ -55,4 +14,10 @@ https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?
 
 
 
-b 
+
+
+
+
+
+
+
