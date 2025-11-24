@@ -1,32 +1,52 @@
-m3u
-
-imsgen 
-https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",1. Bart no está muerto
+http://pomf2.lain.la/f/buyrgtq7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",2. La casita del horror XXIX
+http://pomf2.lain.la/f/8mebn1c7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",3. Mi manera o la autopista al cielo
+http://pomf2.lain.la/f/b86ffgl2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",4. El corazón del dilema
+http://pomf2.lain.la/f/0e944pkp.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",5. Nene, no puedes manejar mi auto
+http://pomf2.lain.la/f/d6epmtpp.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",6. De Rusia sin amor
+http://pomf2.lain.la/f/j6tzcya.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",7. Mamá trabaja
+http://pomf2.lain.la/f/z01upuo6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",8. Krusty el payaso
+http://pomf2.lain.la/f/ghelwdnk.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",9. Papáicus Finch
+http://pomf2.lain.la/f/zdsuzmjw.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",10. La niñera
+http://pomf2.lain.la/f/p5xzv6y.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",11. Stealing First Base
+http://pomf2.lain.la/f/k0c02cn.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",12. Krusty the Clown
+http://pomf2.lain.la/f/vfx0giy7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",13. Daddicus Finch
+http://pomf2.lain.la/f/4w0kovwm.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",14. 'Tis the 30th Season
+http://pomf2.lain.la/f/ckh681k9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",15. Mad About the Toy
+http://pomf2.lain.la/f/jp9kcizq.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",16. The Girl on the Bus
+http://pomf2.lain.la/f/memma3k.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",17. I'm Dancing as Fat as I Can
+http://pomf2.lain.la/f/hv2hg6ge.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",18. The Clown Stays in the Picture
+http://pomf2.lain.la/f/hwjmxtnj.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",19. 101 Mitigations
+http://pomf2.lain.la/f/61v6vev.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",20. The Winter of Our Monetized Content
+http://pomf2.lain.la/f/8ckflx2r.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",21. Girl's in the Band
+http://pomf2.lain.la/f/1d8h6mt3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",22. I'm Just a Girl Who Can't Say D'oh
+http://pomf2.lain.la/f/vcz98ajw.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Z2VCkd6NQPwEu70KgDegWr4FMW.jpg" group-title="Los Simpson T30",23. The Way of the Dog
+http://pomf2.lain.la/f/suu3ptxl.mp4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
+BFLIX.NET
 
 
 
