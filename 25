@@ -1,73 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",1
-https://archive.org/download/25-2_20250624/25%20%281%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",2
-https://archive.org/download/25-2_20250624/25%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",3
-https://archive.org/download/25-2_20250624/25%20%283%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",4
-https://archive.org/download/25-2_20250624/25%20%284%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",5
-https://archive.org/download/25-2_20250624/25%20%285%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",6
-https://archive.org/download/25-2_20250624/25%20%286%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",7
-https://archive.org/download/25-2_20250624/25%20%287%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",8
-https://archive.org/download/25-2_20250624/25%20%288%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",9
-https://archive.org/download/25-2_20250624/25%20%289%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",10
-https://archive.org/download/25-2_20250624/25%20%2810%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",11
-https://archive.org/download/25-2_20250624/25%20%2811%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",12
-https://archive.org/download/25-2_20250624/25%20%2812%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",13
-https://archive.org/download/25-2_20250624/25%20%2813%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",14
-https://archive.org/download/25-2_20250624/25%20%2814%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",15
-https://archive.org/download/25-2_20250624/25%20%2815%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",16
-https://archive.org/download/25-2_20250624/25%20%2816%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",17
-https://archive.org/download/25-2_20250624/25%20%2817%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",18
-https://archive.org/download/25-2_20250624/25%20%2818%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",19
-https://archive.org/download/25-2_20250624/25%20%2819%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",20
-https://archive.org/download/25-2_20250624/25%20%2820%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",20
-https://archive.org/download/25-2_20250624/25%20%2821%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg",20
-https://archive.org/download/25-2_20250624/25%20%2822%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x01
+https://fina.dyndns.tv/Cartoons/Simpsons/25x01.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x02
+https://fina.dyndns.tv/Cartoons/Simpsons/25x02.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x03
+https://fina.dyndns.tv/Cartoons/Simpsons/25x03.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x04
+https://fina.dyndns.tv/Cartoons/Simpsons/25x04.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x05
+https://fina.dyndns.tv/Cartoons/Simpsons/25x05.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x06
+https://fina.dyndns.tv/Cartoons/Simpsons/25x06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x07
+https://fina.dyndns.tv/Cartoons/Simpsons/25x07.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x08
+https://fina.dyndns.tv/Cartoons/Simpsons/25x08.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x09
+https://fina.dyndns.tv/Cartoons/Simpsons/25x09.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x10
+https://fina.dyndns.tv/Cartoons/Simpsons/25x10.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x11
+https://fina.dyndns.tv/Cartoons/Simpsons/25x11.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x12
+https://fina.dyndns.tv/Cartoons/Simpsons/25x12.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x13
+https://fina.dyndns.tv/Cartoons/Simpsons/25x13.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x14
+https://fina.dyndns.tv/Cartoons/Simpsons/25x14.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x15
+https://fina.dyndns.tv/Cartoons/Simpsons/25x15.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x16
+https://fina.dyndns.tv/Cartoons/Simpsons/25x16.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x17
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x18
+https://fina.dyndns.tv/Cartoons/Simpsons/25x18.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x19
+https://fina.dyndns.tv/Cartoons/Simpsons/25x19.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x20
+https://fina.dyndns.tv/Cartoons/Simpsons/25x20.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x21
+https://fina.dyndns.tv/Cartoons/Simpsons/25x21.mkv
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fh4mG1isnmLXIpB6iuHF1ULwIGu.jpg" group-title="TEMPORADA 25",25x22
+https://fina.dyndns.tv/Cartoons/Simpsons/25x22.mkv
