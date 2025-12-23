@@ -1,62 +1,71 @@
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",1
-https://archive.org/download/20-5_20250625/20%20%281%29.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x01
+https://fina.dyndns.tv/Cartoons/Simpsons/20x01.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",2
-https://archive.org/download/20-5_20250625/20%20%282%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x02
+https://fina.dyndns.tv/Cartoons/Simpsons/20x02.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",3
-https://archive.org/download/20-5_20250625/20%20%283%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x03
+https://fina.dyndns.tv/Cartoons/Simpsons/20x03.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",4
-https://archive.org/download/20-5_20250625/20%20%284%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x04
+https://fina.dyndns.tv/Cartoons/Simpsons/20x04.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",5
-https://archive.org/download/20-5_20250625/20%20%285%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x05
+https://fina.dyndns.tv/Cartoons/Simpsons/20x05.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",6
-https://archive.org/download/20-5_20250625/20%20%286%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x06
+https://fina.dyndns.tv/Cartoons/Simpsons/20x06.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",7
-https://archive.org/download/20-5_20250625/20%20%287%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x07
+https://fina.dyndns.tv/Cartoons/Simpsons/20x07.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",8
-https://archive.org/download/20-5_20250625/20%20%288%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x08
+https://fina.dyndns.tv/Cartoons/Simpsons/20x08.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",9
-https://archive.org/download/20-5_20250625/20%20%289%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x09
+https://fina.dyndns.tv/Cartoons/Simpsons/20x09.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",10
-https://archive.org/download/20-5_20250625/20%20%2810%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x10
+https://fina.dyndns.tv/Cartoons/Simpsons/20x10.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",11
-https://archive.org/download/20-5_20250625/20%20%2811%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x11
+https://fina.dyndns.tv/Cartoons/Simpsons/20x11.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",12
-https://archive.org/download/20-5_20250625/20%20%2812%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x12
+https://fina.dyndns.tv/Cartoons/Simpsons/20x12.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",13
-https://archive.org/download/20-5_20250625/20%20%2813%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x13
+https://fina.dyndns.tv/Cartoons/Simpsons/20x13.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",14
-https://archive.org/download/20-5_20250625/20%20%2814%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x14
+https://fina.dyndns.tv/Cartoons/Simpsons/20x14.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",15
-https://archive.org/download/20-5_20250625/20%20%2815%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x15
+https://fina.dyndns.tv/Cartoons/Simpsons/20x15.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",16
-https://archive.org/download/20-5_20250625/20%20%2816%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x16
+https://fina.dyndns.tv/Cartoons/Simpsons/20x16.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",17
-https://archive.org/download/20-5_20250625/20%20%2817%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x17
+https://fina.dyndns.tv/Cartoons/Simpsons/20x17.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",18
-https://archive.org/download/20-5_20250625/20%20%2818%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x18
+https://fina.dyndns.tv/Cartoons/Simpsons/20x18.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",19
-https://archive.org/download/20-5_20250625/20%20%2819%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x19
+https://fina.dyndns.tv/Cartoons/Simpsons/20x19.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",20
-https://archive.org/download/20-5_20250625/20%20%2820%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x20
+https://fina.dyndns.tv/Cartoons/Simpsons/20x20.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg",21
-https://archive.org/download/20-5_20250625/20%20%2821%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQMc1gFWAR1k0wD1fAU6nyOwHP2.jpg" group-title="TEMPORADA 20",20x21
+https://fina.dyndns.tv/Cartoons/Simpsons/20x21.mkv
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kxmxvfp6i4ja3i2a953k0/zombomeme02112025025241.jpg?rlkey=7rqvq1sv5qx1zvdit9simgco3&st=y8l663u7&.jpeg",BFLIX
+BFLIX.NET
