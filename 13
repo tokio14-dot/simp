@@ -1,89 +1,51 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/66dzhe8v.jpg",BFLIX
+https//BFLIX.NET
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El árbol de la ira
-https://archive.org/download/13-14_202506/13%20%281%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El padre que sabía demasiado
-https://archive.org/download/13-14_202506/13%20%282%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",La vieja y el estudiante
-https://archive.org/download/13-14_202506/13%20%283%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Tales de Springfield
-https://archive.org/download/13-14_202506/13%20%284%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El blues de los niños ratón
-https://archive.org/download/13-14_202506/13%20%285%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Ella le pone el hombro
-https://archive.org/download/13-14_202506/13%20%286%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",La casita del horror XII
-https://archive.org/download/13-14_202506/13%20%287%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Homero el Moe
-https://archive.org/download/13-14_202506/13%20%288%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Día de nieve
-https://archive.org/download/13-14_202506/13%20%289%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El cuarto acuerdo
-https://archive.org/download/13-14_202506/13%20%2810%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Bart al futuro
-https://archive.org/download/13-14_202506/13%20%2811%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los últimos días en el manicomio
-https://archive.org/download/13-14_202506/13%20%2812%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",La semana del estupido
-https://archive.org/download/13-14_202506/13%20%2813%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x01
+https://fina.dyndns.tv/Cartoons/Simpsons/13x01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x02
+https://fina.dyndns.tv/Cartoons/Simpsons/13x02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x03
+https://fina.dyndns.tv/Cartoons/Simpsons/13x03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x04
+https://fina.dyndns.tv/Cartoons/Simpsons/13x04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x05
+https://fina.dyndns.tv/Cartoons/Simpsons/13x05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x06
+https://fina.dyndns.tv/Cartoons/Simpsons/13x06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x07
+https://fina.dyndns.tv/Cartoons/Simpsons/13x07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x08
+https://fina.dyndns.tv/Cartoons/Simpsons/13x08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x09
+https://fina.dyndns.tv/Cartoons/Simpsons/13x09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x10
+https://fina.dyndns.tv/Cartoons/Simpsons/13x10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x11
+https://fina.dyndns.tv/Cartoons/Simpsons/13x11.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x12
+https://fina.dyndns.tv/Cartoons/Simpsons/13x12.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x13
+https://fina.dyndns.tv/Cartoons/Simpsons/13x13.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x14
+https://fina.dyndns.tv/Cartoons/Simpsons/13x14.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x15
+https://fina.dyndns.tv/Cartoons/Simpsons/13x15.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x16
+https://fina.dyndns.tv/Cartoons/Simpsons/13x16.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x17
+https://fina.dyndns.tv/Cartoons/Simpsons/13x17.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x18
+https://fina.dyndns.tv/Cartoons/Simpsons/13x18.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x19
+https://fina.dyndns.tv/Cartoons/Simpsons/13x19.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x20
+https://fina.dyndns.tv/Cartoons/Simpsons/13x20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x21
+https://fina.dyndns.tv/Cartoons/Simpsons/13x21.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson 13x22
+https://fina.dyndns.tv/Cartoons/Simpsons/13x22.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El amor es una cosa muy extraña
-https://archive.org/download/13-14_202506/13%20%2814%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El bribón de siempre
-https://archive.org/download/13-14_202506/13%20%2815%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",La fiesta de despedida
-https://archive.org/download/13-14_202506/13%20%2816%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Yo, robotón
-https://archive.org/download/13-14_202506/13%20%2817%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",Los Simpson viajan a Italia
-https://archive.org/download/13-14_202506/13%20%2818%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El premio gordo
-https://archive.org/download/13-14_202506/13%20%2819%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",La competencia de baile
-https://archive.org/download/13-14_202506/13%20%2820%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El show de los Poochie
-https://archive.org/download/13-14_202506/13%20%2821%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2qmtjgHBM7jqukucoSWd85ZVDq9.jpg",El viejo y el Lisa
-https://archive.org/download/13-14_202506/13%20%2822%29.mp4
