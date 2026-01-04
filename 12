@@ -1,86 +1,46 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 1
-https://archive.org/download/12-1_20250628/12%20%281%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 2
-https://archive.org/download/12-1_20250628/12%20%282%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 3
-https://archive.org/download/12-1_20250628/12%20%283%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 4
-https://archive.org/download/12-1_20250628/12%20%284%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 5
-https://archive.org/download/12-1_20250628/12%20%285%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 6
-https://archive.org/download/12-1_20250628/12%20%286%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 7
-https://archive.org/download/12-1_20250628/12%20%287%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 8
-https://archive.org/download/12-1_20250628/12%20%288%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 9
-https://archive.org/download/12-1_20250628/12%20%289%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 10
-https://archive.org/download/12-1_20250628/12%20%2810%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 11
-https://archive.org/download/12-1_20250628/12%20%2811%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 12
-https://archive.org/download/12-1_20250628/12%20%2812%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 13
-https://archive.org/download/12-1_20250628/12%20%2813%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 14
-https://archive.org/download/12-1_20250628/12%20%2814%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 15
-https://archive.org/download/12-1_20250628/12%20%2815%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 16
-https://archive.org/download/12-1_20250628/12%20%2816%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 17
-https://archive.org/download/12-1_20250628/12%20%2817%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 18
-https://archive.org/download/12-1_20250628/12%20%2818%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 19
-https://archive.org/download/12-1_20250628/12%20%2819%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 20
-https://archive.org/download/12-1_20250628/12%20%2820%29.mp4
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Episodio 21
-https://archive.org/download/12-1_20250628/12%20%2821%29.mp4
-
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/66dzhe8v.jpg",BFLIX
+https//BFLIX.NET
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x01
+https://fina.dyndns.tv/Cartoons/Simpsons/12x01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x02
+https://fina.dyndns.tv/Cartoons/Simpsons/12x02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x03
+https://fina.dyndns.tv/Cartoons/Simpsons/12x03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x04
+https://fina.dyndns.tv/Cartoons/Simpsons/12x04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x05
+https://fina.dyndns.tv/Cartoons/Simpsons/12x05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x06
+https://fina.dyndns.tv/Cartoons/Simpsons/12x06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x07
+https://fina.dyndns.tv/Cartoons/Simpsons/12x07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x08
+https://fina.dyndns.tv/Cartoons/Simpsons/12x08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x09
+https://fina.dyndns.tv/Cartoons/Simpsons/12x09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x10
+https://fina.dyndns.tv/Cartoons/Simpsons/12x10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x11
+https://fina.dyndns.tv/Cartoons/Simpsons/12x11.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x12
+https://fina.dyndns.tv/Cartoons/Simpsons/12x12.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x13
+https://fina.dyndns.tv/Cartoons/Simpsons/12x13.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x14
+https://fina.dyndns.tv/Cartoons/Simpsons/12x14.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x15
+https://fina.dyndns.tv/Cartoons/Simpsons/12x15.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x16
+https://fina.dyndns.tv/Cartoons/Simpsons/12x16.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x17
+https://fina.dyndns.tv/Cartoons/Simpsons/12x17.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x18
+https://fina.dyndns.tv/Cartoons/Simpsons/12x18.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x19
+https://fina.dyndns.tv/Cartoons/Simpsons/12x19.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x20
+https://fina.dyndns.tv/Cartoons/Simpsons/12x20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",Los Simpson 12x21
+https://fina.dyndns.tv/Cartoons/Simpsons/12x21.mkv
