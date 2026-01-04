@@ -1,56 +1,43 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x01
+https://fina.dyndns.tv/Cartoons/Simpsons/15x01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x02
+https://fina.dyndns.tv/Cartoons/Simpsons/15x02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x03
+https://fina.dyndns.tv/Cartoons/Simpsons/15x03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x04
+https://fina.dyndns.tv/Cartoons/Simpsons/15x04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x05
+https://fina.dyndns.tv/Cartoons/Simpsons/15x05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x06
+https://fina.dyndns.tv/Cartoons/Simpsons/15x06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x07
+https://fina.dyndns.tv/Cartoons/Simpsons/15x07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x08
+https://fina.dyndns.tv/Cartoons/Simpsons/15x08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x09
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 1
-https://archive.org/download/15-11_202506/15%20%281%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 2
-https://archive.org/download/15-11_202506/15%20%282%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 3
-https://archive.org/download/15-11_202506/15%20%283%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 4
-https://archive.org/download/15-11_202506/15%20%284%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 5
-https://archive.org/download/15-11_202506/15%20%285%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 6
-https://archive.org/download/15-11_202506/15%20%286%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 7
-https://archive.org/download/15-11_202506/15%20%287%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 8
-https://archive.org/download/15-11_202506/15%20%288%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 9
-https://archive.org/download/15-11_202506/15%20%289%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 10
-https://archive.org/download/15-11_202506/15%20%2810%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 11
-https://archive.org/download/15-11_202506/15%20%2811%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 12
-https://archive.org/download/15-11_202506/15%20%2812%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 13
-https://archive.org/download/15-11_202506/15%20%2813%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 14
-https://archive.org/download/15-11_202506/15%20%2814%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 15
-https://archive.org/download/15-11_202506/15%20%2815%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 16
-https://archive.org/download/15-11_202506/15%20%2816%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 17
-https://archive.org/download/15-11_202506/15%20%2817%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 18
-https://archive.org/download/15-11_202506/15%20%2818%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 19
-https://archive.org/download/15-11_202506/15%20%2819%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 20
-https://archive.org/download/15-11_202506/15%20%2820%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 21
-https://archive.org/download/15-11_202506/15%20%2821%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg", 22
-https://archive.org/download/15-11_202506/15%20%2822%29.mp4
-```
-
-
-
-
-
-
-
-
-CCC
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x10
+https://fina.dyndns.tv/Cartoons/Simpsons/15x10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x11
+https://fina.dyndns.tv/Cartoons/Simpsons/15x11.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x12
+https://fina.dyndns.tv/Cartoons/Simpsons/15x12.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x13
+https://fina.dyndns.tv/Cartoons/Simpsons/15x13.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x14
+https://fina.dyndns.tv/Cartoons/Simpsons/15x14.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x16
+https://fina.dyndns.tv/Cartoons/Simpsons/15x16.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x17
+https://fina.dyndns.tv/Cartoons/Simpsons/15x17.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x18
+https://fina.dyndns.tv/Cartoons/Simpsons/15x18.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x19
+https://fina.dyndns.tv/Cartoons/Simpsons/15x19.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x20
+https://fina.dyndns.tv/Cartoons/Simpsons/15x20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x21
+https://fina.dyndns.tv/Cartoons/Simpsons/15x21.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gdxjIr2bR63iNcHmmJWMwYbcl0o.jpg",Los Simpson 15x22
+https://fina.dyndns.tv/Cartoons/Simpsons/15x22.mkv
