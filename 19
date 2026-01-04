@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/66dzhe8v.jpg",BFLIX
+https//BFLIX.NET
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ztWAZBnbyxVeBW6JROUvLZ556wa.jpg" group-title="TEMPORADA 19",19x01
 https://fina.dyndns.tv/Cartoons/Simpsons/19x01.mkv
 
