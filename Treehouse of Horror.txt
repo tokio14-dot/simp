@@ -69,14 +69,13 @@ http://pomf2.lain.la/f/aoxmh36e.mkv
 http://pomf2.lain.la/f/9s5y9cj1.mkv
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/5ksse02dp8fff8fiixrnw/BOTON.jpg?rlkey=8rdg61jvau645vjf4e69ds7h4&st=7vb5cl0q&dl=1",Treehouse of Horror XXXV
 https://pomf2.lain.la/f/8bz4749j.mkv
-
-#EXTINF:-1 tvg-logo="",Treehouse of Horror XXXVI
-
-#EXTINF:-1 tvg-logo="",Treehouse of Horror XXXVII
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/5ksse02dp8fff8fiixrnw/BOTON.jpg?rlkey=8rdg61jvau645vjf4e69ds7h4&st=7vb5cl0q&dl=1",Treehouse of Horror XXXVI
+https://pomf2.lain.la/f/d4f9cikf.mp4
 
 
 
-#EXTINF:-1 tvg-logo="",Treehouse of Horror XXXVII
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/5ksse02dp8fff8fiixrnw/BOTON.jpg?rlkey=8rdg61jvau645vjf4e69ds7h4&st=7vb5cl0q&dl=1",Treehouse of Horror XXXVII
 https://dl.dropbox.com/scl/fi/gyvrpb45ipdkdq767zmqr/3703.mkv?rlkey=td8fybqwstmvw1xguoxlqqvhl&st=qdin0n4r&dl=0
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/5ksse02dp8fff8fiixrnw/BOTON.jpg?rlkey=8rdg61jvau645vjf4e69ds7h4&st=7vb5cl0q&dl=1",Halloween of Horror
